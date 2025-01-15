@@ -1,2 +1,4 @@
-# capston_project_M2
-this is the first project i am uploading on the github 
+# Capston Project M2
+This project is about to understand the patterns between two hotels , Using matploltlib and seaborn libraries I have done some of visualizations , and well wrangled the data. 
+It was really intresting to see the relationship of the data , and understanding how the data is interconnected , Getting the insights of the data .
+
